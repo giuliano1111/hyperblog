@@ -1,0 +1,66 @@
+[33mcommit 5051b7dec84a156303b147e46529ea1d1c6b2b5f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Giuliano <enzogiuliano1996@gmail.com>
+Date:   Wed Nov 4 18:49:27 2020 -0300
+
+    Commit al master del blogpost en su version mas reciente
+
+ CSS/estilos.css | 16 [32m+++++++++++++++[m[31m-[m
+ blogpost.html   |  8 [32m++++++[m[31m--[m
+ 2 files changed, 21 insertions(+), 3 deletions(-)
+
+[33mcommit db9c9aa7a75dfd3379e92ab81f262134add3ddc2[m
+Author: Giuliano <enzogiuliano1996@gmail.com>
+Date:   Wed Nov 4 11:15:16 2020 -0300
+
+    Puse lo que estoy haciendo actualmente.
+
+ historia.txt | 6 [32m++++[m[31m--[m
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+
+[33mcommit 260baef74434548b62391c31c74553648cf07cf5[m
+Author: Giuliano <enzogiuliano1996@gmail.com>
+Date:   Tue Nov 3 20:49:56 2020 -0300
+
+    cambio de maestria
+
+ historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit d46f5263d8761974c64ec18abd9d2a80c0b6e614[m
+Author: Giuliano <enzogiuliano1996@gmail.com>
+Date:   Tue Nov 3 20:48:58 2020 -0300
+
+    cambio de edad
+
+ historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit c9ae9fd77d0589e571bccaee1bce17dc93eae7d8[m
+Author: Giuliano <enzogiuliano1996@gmail.com>
+Date:   Tue Nov 3 20:46:57 2020 -0300
+
+    Arranco el proyecto real con html y css
+
+ CSS/estilos.css                                    |  5 [32m++++[m
+ blogpost.html                                      | 11 [32m++++++++[m
+ ...2a79f3 888175f9ac06de8ceb90a1b8b6f2a91072059418 | 29 [32m++++++++++++++++++++++[m
+ 3 files changed, 45 insertions(+)
+
+[33mcommit 37892b54a59a364386fad00e9d20da26e985072b[m
+Author: Giuliano <enzogiuliano1996@gmail.com>
+Date:   Tue Nov 3 02:35:17 2020 -0300
+
+    cambios para completar mis datos
+
+ historia.txt | 4 [32m+++[m[31m-[m
+ vacio.txt    | 0
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit 3dee3702ebff9411a0fb21f301e21826392a79f3[m
+Author: Giuliano <enzogiuliano1996@gmail.com>
+Date:   Tue Nov 3 02:26:03 2020 -0300
+
+    este es el primer commit del archivo
+
+ historia.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
